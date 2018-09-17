@@ -1,0 +1,23 @@
+{
+    "name": "Ron Mason",
+    "website": ,
+    "linkedin": "https://www.linkedin.com/ron-mason",
+    "github": "wheresronald0",
+    "email": "wheresronaldo@gmail.com",
+    "resume": ,
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+        "react", 
+        "angular", 
+        "mern", 
+        "mean",
+        "sql",
+        "node", 
+        "mongodb"
+    ],
+    "other-skills": [
+        "golf",
+    ]
+}
